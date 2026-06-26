@@ -132,7 +132,7 @@ The CNN model successfully learned surface defect patterns and achieved reliable
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Sahil-Bulbule/NEO---INSPECT>
 ```
 
 Navigate to project folder:
