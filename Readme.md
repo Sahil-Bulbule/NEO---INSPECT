@@ -7,7 +7,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-red)  
 ![Accuracy](https://img.shields.io/badge/Accuracy-80%25-success)
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 **Neo-Inspect** is a Deep Learning based automated surface defect inspection system developed using **Convolutional Neural Networks (CNN)**. 
 
