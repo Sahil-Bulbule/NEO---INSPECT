@@ -2,7 +2,7 @@
 
 ## Automated Surface Defect Detection using CNN Deep Learning
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.x-blue) 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNN-orange)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-red)  
 ![Accuracy](https://img.shields.io/badge/Accuracy-80%25-success)
