@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview
 
-**Neo-Inspect** is a Deep Learning based automated surface defect inspection system developed using **Convolutional Neural Networks (CNN)**.
+**Neo-Inspect** is a Deep Learning based automated surface defect inspection system developed using **Convolutional Neural Networks (CNN)**. 
 
 The main objective of this project is to automatically detect and classify industrial surface defects from images. The CNN model learns important visual features from defect images and predicts the category of the surface defect with high efficiency.
 
